@@ -13,6 +13,7 @@ schema:
     四键自动上屏
   dependencies:
     - luna_pinyin
+    - double_pinyin_flypy
 
 switches:
   - name: ascii_mode
@@ -20,7 +21,7 @@ switches:
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
-  - name: zh_simp
+  - name: simplification
     reset: 1
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
@@ -51,6 +52,7 @@ engine:
     - uniquifier
 
 speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   # delimiter: " ;'"
   max_code_length: 4
   auto_select: true
@@ -59,10 +61,10 @@ speller:
 translator:
   dictionary: xhup
   enable_charset_filter: true
-  enable_encoder: true
+  enable_encoder: false
   enable_sentence: false
-  enable_commit_history: true
-  enable_completion: true
+  encode_commit_history: false
+  enable_completion: false
   enable_user_dict: true
   max_phrase_length: 14
   disable_user_dict_for_patterns:
@@ -71,7 +73,7 @@ translator:
 
 reverse_lookup:
   dictionary: luna_pinyin
-  # prism: double_pinyin_flypy
+  prism: double_pinyin_flypy
   prefix: "`"
   # suffix: "'"
   tips: 〔拼音〕
@@ -81,10 +83,10 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
 
 simplifier:
-  option_name: zh_simp
+  option_name: simplification
 
 punctuator:
-  import_preset: default
+  import_preset: symbols
 
 key_binder:
   import_preset: default
@@ -92,4 +94,5 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
     reverse_lookup: "`[a-z]*'?$"
