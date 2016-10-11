@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import sys
+import os
 from os import path
+import subprocess
 
 if __name__ == '__main__':
     argv = sys.argv
@@ -111,6 +113,21 @@ if __name__ == '__main__':
                     if v not in t_list:
                         t_list.append(v)
 
+    orig_dict_s2t_file = 'orig-dict-s2t.txt'
+    subprocess.check_call(['opencc', '-i', orig_dict_file,
+                           '-o', orig_dict_s2t_file,
+                           '-c', 's2t.json'])
+    orig_dict_s2t_dict = dict()
+    with open(orig_dict_file) as sf, open(orig_dict_s2t_file) as tf:
+        orig_line = sf.readline().rstrip('\n')
+        s2t_line = tf.readline().rstrip('\n')
+        while orig_line and s2t_line:
+            (s, code) = orig_line.split('\t')
+            (t, code) = s2t_line.split('\t')
+            orig_dict_s2t_dict[s] = t
+            orig_line = sf.readline().rstrip('\n')
+            s2t_line = tf.readline().rstrip('\n')
+
     new_lines = set()
     with open(orig_dict_file) as f:
         line = f.readline().rstrip('\n')
@@ -123,7 +140,7 @@ if __name__ == '__main__':
                         new_lines.add(new_line)
                         print(new_line)
             else:
-                t = ''.join(st_dict[schar][0] if schar in st_dict else schar for schar in s)
+                t = orig_dict_s2t_dict[s]
                 new_line = t + '\t' + code
                 if new_line not in new_lines:
                     new_lines.add(new_line)

@@ -288,7 +288,7 @@ AA制	aavi
 按理說	aluo
 安樂窩	alw
 安樂窩	alwo
-挨了一頓揍	alyz
+捱了一頓揍	alyz
 曖昧	am
 阿貓阿狗	amag
 哀莫大於心死	amds
@@ -618,7 +618,7 @@ AA制	aavi
 暗中摸索	avms
 安之若素	avrs
 安枕無憂	avwy
-愛之欲其生	avyu
+愛之慾其生	avyu
 安慰	aw
 奧委會	awh
 奧委會	awhv
@@ -642,7 +642,7 @@ AA制	aavi
 艾滋病	azb
 艾滋病	azbk
 愛憎分明	azfm
-醃臢潑才	azpc
+腌臢潑才	azpc
 不	b
 吧	b
 把	ba
@@ -822,7 +822,7 @@ AA制	aavi
 賓客	bbke
 不包括	bbko
 必不可少	bbku
-八百裏	bbl
+八百里	bbl
 瀕臨	bblb
 賓利	bbli
 斑駁陸離	bbll
@@ -1574,7 +1574,7 @@ AA制	aavi
 秉公執法	bgvf
 繃直	bgvi
 半個鍾	bgvs
-半個鍾頭	bgvt
+半個鐘頭	bgvt
 琫	bgw
 琫	bgwl
 秉公無私	bgws
@@ -1814,7 +1814,7 @@ AA制	aavi
 比例	bili
 碧藍	bilj
 鼻樑	bill
-拔出蘿卜帶出泥	biln
+拔出蘿蔔帶出泥	biln
 筆錄	bilu
 比率	bilv
 壁壘	bilw
@@ -1996,7 +1996,7 @@ AA制	aavi
 不解風情	bjfq
 飽經風霜	bjfu
 扳	bjfy
-比較復雜	bjfz
+比較複雜	bjfz
 不及格	bjg
 靽	bjgb
 半個	bjge
@@ -2033,7 +2033,7 @@ AA制	aavi
 版塊	bjk
 搬開	bjkd
 版塊	bjkk
-不積跬步無以至千裏	bjkl
+不積跬步無以至千里	bjkl
 比較困難	bjkn
 半空	bjks
 扮酷	bjku
@@ -3145,8 +3145,8 @@ AA制	aavi
 不太懂	btds
 不停的說	btdu
 半途而廢	btef
-白頭發	btf
-白頭發	btfa
+白頭髮	btf
+白頭髮	btfa
 不同凡俗	btfs
 不同凡響	btfx
 不太好	bth
@@ -3162,7 +3162,7 @@ AA制	aavi
 不太可能	btkn
 別提了	btl
 拜託了	btle
-不太了解	btlj
+不太瞭解	btlj
 不聽老人言，吃虧在眼前	btlq
 遍體鱗傷	btlu
 不太理想	btlx
@@ -3349,7 +3349,7 @@ AA制	aavi
 不滿	bumj
 不勝枚舉	bumj
 不明	bumk
-不甚明了	buml
+不甚明瞭	buml
 不免	bumm
 不妙	bumn
 不滅	bump
@@ -3627,7 +3627,7 @@ AA制	aavi
 北國	bwgo
 悲觀	bwgr
 庳	bwgu
-不無關系	bwgx
+不無關係	bwgx
 鞴	bwgy
 焙	bwh
 備好	bwhc
@@ -3746,7 +3746,7 @@ AA制	aavi
 備	bwwt
 卑微	bwww
 憊	bwwx
-不爲五鬥米折腰	bwwy
+不爲五斗米折腰	bwwy
 悖	bwx
 背心	bwxb
 悲喜	bwxi
@@ -4754,8 +4754,8 @@ AA制	aavi
 促進作用	cjzy
 參考	ck
 摧枯拉朽	cklx
-才可能	ckn
-才可能	ckng
+纔可能	ckn
+纔可能	ckng
 從來	cl
 從來不	clb
 錯漏百出	clbi
@@ -5188,7 +5188,7 @@ AA制	aavi
 磁懸浮	cxf
 磁懸浮	cxfu
 藏形匿影	cxny
-才想起來	cxql
+纔想起來	cxql
 促膝談心	cxtx
 從現在開始	cxzu
 村	cy
@@ -5227,7 +5227,7 @@ AA制	aavi
 存儲	cyiu
 此言差矣	cyiy
 存款	cyk
-才有可能	cykn
+纔有可能	cykn
 存款	cykr
 從一開始	cyku
 村口	cykz
@@ -7693,7 +7693,7 @@ AA制	aavi
 短小	drxn
 動人心魄	drxp
 短袖	drxq
-動人心弦	drxx
+動人心絃	drxx
 丟人現眼	drxy
 短語	dry
 鍛壓	drya
@@ -8433,7 +8433,7 @@ AA制	aavi
 第一天	dytm
 頓	dytr
 坉	dytt
-當一天和尚撞一天鍾	dytv
+當一天和尚撞一天鐘	dytv
 墩	dytw
 打油詩	dyu
 頓生	dyug
@@ -8769,7 +8769,7 @@ AA制	aavi
 厄瓜多爾	egde
 恩格爾	ege
 恩格爾	eger
-恩格爾系數	egeu
+恩格爾係數	egeu
 惡貫滿盈	egmy
 耳根清淨	egqj
 二鍋頭	egt
@@ -9027,7 +9027,7 @@ AA制	aavi
 耳聞是虛	ewux
 兒戲	ex
 惡向膽邊生	exdu
-兒行千裏母擔憂	exqy
+兒行千里母擔憂	exqy
 惡性循環	exxh
 而已	ey
 惡有惡報	eyeb
@@ -9341,8 +9341,8 @@ AA制	aavi
 紛繁	fffj
 吩咐	fffu
 紛飛	fffw
-芬芳馥鬱	fffy
-紛繁復雜	fffz
+芬芳馥郁	fffy
+紛繁複雜	fffz
 分割	ffg
 分隔	ffge
 風風光光	ffgg
@@ -9447,7 +9447,7 @@ AA制	aavi
 分數	ffuu
 粉刷	ffux
 分手	ffuz
-分分鍾	ffv
+分分鐘	ffv
 紛爭	ffvg
 分賬	ffvh
 分支	ffvi
@@ -10195,7 +10195,7 @@ AA制	aavi
 分理處	fli
 分理處	fliu
 法輪常轉	fliv
-泛濫成災	fliz
+氾濫成災	fliz
 風流快活	flk
 法蘭克福	flkf
 風流快活	flkh
@@ -10675,7 +10675,7 @@ AA制	aavi
 發展中	fvv
 發展中國家	fvvj
 發展中	fvvs
-復制粘貼	fvvt
+複製粘貼	fvvt
 輔助性	fvx
 付諸行動	fvxd
 輔助性	fvxk
@@ -10922,11 +10922,11 @@ AA制	aavi
 翻雲覆雨	fyfy
 附庸風雅	fyfy
 發揚光大	fygd
-復印件	fyj
+複印件	fyj
 風雲際會	fyjh
 風雨兼程	fyji
 風雨交加	fyjj
-復印件	fyjm
+複印件	fyjm
 佛要金裝	fyjv
 反映了	fyl
 反映了	fyle
@@ -10952,7 +10952,7 @@ AA制	aavi
 敷衍我	fyw
 風月無邊	fywb
 負隅頑抗	fywk
-扶搖萬裏	fywl
+扶搖萬里	fywl
 敷衍我	fywo
 風雨無阻	fywz
 防禦性	fyx
@@ -11616,7 +11616,7 @@ GDP	gdp
 規範性	gfx
 規範性	gfxk
 高風險	gfxm
-刮風下雨	gfxy
+颳風下雨	gfxy
 根源	gfy
 根源	gfyr
 股份有限公司	gfys
@@ -12943,8 +12943,8 @@ GDP	gdp
 共同點	gtd
 感天動地	gtdd
 共同點	gtdm
-刮臺風	gtf
-刮臺風	gtfg
+刮颱風	gtf
+刮颱風	gtfg
 故態復萌	gtfm
 共同發展	gtfv
 共同富裕	gtfy
@@ -13341,7 +13341,7 @@ GDP	gdp
 龜速	gvs
 龜縮	gvso
 歸宿	gvsu
-個中三味	gvsw
+箇中三味	gvsw
 圭	gvt
 櫃檯	gvtd
 邽	gvte
@@ -13856,7 +13856,7 @@ GDP	gdp
 魂不附體	hbft
 還本付息	hbfx
 還不夠	hbg
-互不幹擾	hbgr
+互不干擾	hbgr
 還不夠	hbgz
 會不會	hbh
 好不好	hbhc
@@ -14528,7 +14528,7 @@ GDP	gdp
 很久	hfj
 很近	hfjb
 痕跡	hfji
-鶴發雞皮	hfjp
+鶴髮雞皮	hfjp
 很久	hfjq
 很快	hfk
 很卡	hfka
@@ -14899,7 +14899,7 @@ GDP	gdp
 寒光	hjgl
 韓國	hjgo
 頇	hjgr
-橫加幹涉	hjgu
+橫加干涉	hjgu
 活見鬼	hjgv
 函購	hjgz
 焊	hjh
@@ -16409,7 +16409,7 @@ GDP	gdp
 毫無顧忌	hwgj
 黑鍋	hwgo
 黑鬼	hwgv
-毫無關系	hwgx
+毫無關係	hwgx
 黑黑	hwh
 黑戶	hwhu
 嘿嘿	hwhw
@@ -16753,7 +16753,7 @@ GDP	gdp
 還有個	hyg
 混個	hyge
 魂歸	hygv
-很有關系	hygx
+很有關係	hygx
 混合	hyh
 諢號	hyhc
 混合	hyhe
@@ -17986,7 +17986,7 @@ GDP	gdp
 場子	ihz
 廠子	ihzi
 長足	ihzu
-吹胡子瞪眼	ihzy
+吹鬍子瞪眼	ihzy
 吃	ii
 嚐嚐	ii
 豉	iia
@@ -18265,7 +18265,7 @@ GDP	gdp
 纏	ijsl
 長鏡頭	ijt
 重見天日	ijtr
-創巨痛深	ijtu
+創鉅痛深	ijtu
 蟬蛻	ijtv
 長鏡頭	ijtz
 饞	iju
@@ -19114,10 +19114,10 @@ IP地址	ipdv
 棰	ivmi
 吹滅	ivmp
 垂暮	ivmu
-陳芝麻爛谷子	ivmz
+陳芝麻爛穀子	ivmz
 吹牛	ivn
 純真年代	ivnd
-吃齋念佛	ivnf
+吃齋唸佛	ivnf
 吹牛	ivnq
 垂	ivp
 垂	ivpa
@@ -19737,7 +19737,7 @@ IP地址	ipdv
 進	jbzj
 飢不擇食	jbzu
 精彩	jc
-局促不安	jcba
+侷促不安	jcba
 急匆匆	jcc
 金燦燦	jccj
 急匆匆	jccs
@@ -19917,7 +19917,7 @@ IP地址	ipdv
 經國之才	jgvc
 驚弓之鳥	jgvn
 幾個鍾	jgvs
-幾個鍾頭	jgvt
+幾個鐘頭	jgvt
 居功至偉	jgvw
 將功折罪	jgvz
 甲骨文	jgw
@@ -20397,7 +20397,7 @@ IP地址	ipdv
 解決了	jjle
 解解悶	jjm
 解解悶	jjmf
-簡潔明了	jjml
+簡潔明瞭	jjml
 急急忙忙	jjmm
 近幾年	jjn
 近幾年	jjnm
@@ -20446,7 +20446,7 @@ IP地址	ipdv
 經濟學	jjxt
 見機行事	jjxu
 濟濟一堂	jjy
-家家有本難念的經	jjyj
+家家有本難唸的經	jjyj
 積極因素	jjys
 井井有條	jjyt
 炯炯有神	jjyu
@@ -21707,7 +21707,7 @@ IP地址	ipdv
 就會	jqh
 就好	jqhc
 糾合	jqhe
-九曲回腸	jqhi
+九曲迴腸	jqhi
 韭黃	jqhl
 救火	jqho
 救護	jqhu
@@ -21895,11 +21895,11 @@ IP地址	ipdv
 堅如磐石	jrpu
 酒肉朋友	jrpy
 狷	jrq
-拒人千裏	jrql
+拒人千里	jrql
 捐錢	jrqm
 狷	jrqo
 捲曲	jrqu
-拒人千裏之外	jrqw
+拒人千里之外	jrqw
 倦	jrr
 既然如此	jrrc
 雋	jrrn
@@ -22071,7 +22071,7 @@ IP地址	ipdv
 決口	jtkz
 決裂	jtl
 焦頭爛額	jtle
-腳踏兩只船	jtli
+腳踏兩隻船	jtli
 景泰藍	jtlj
 進退兩難	jtln
 決裂	jtlp
@@ -22327,7 +22327,7 @@ IP地址	ipdv
 居前	juqm
 狙	juqq
 俱全	juqr
-決勝千裏之外	juqw
+決勝千里之外	juqw
 俱	jur
 俱	jurb
 巨人	jurf
@@ -22734,7 +22734,7 @@ IP地址	ipdv
 家務	jxwu
 價位	jxww
 賈	jxx
-局限性	jxx
+侷限性	jxx
 加薪	jxxb
 居心險惡	jxxe
 加息	jxxi
@@ -24076,7 +24076,7 @@ IP地址	ipdv
 口若懸河	krxh
 款項	krxl
 寬限	krxm
-扣人心弦	krxx
+扣人心絃	krxx
 寬裕	kry
 款爺	krye
 寬衣	kryi
@@ -24803,7 +24803,7 @@ IP地址	ipdv
 鱗	lbal
 冷冰冰	lbb
 淋巴	lbba
-蘿卜白菜，各有所愛	lbba
+蘿蔔白菜，各有所愛	lbba
 拎包	lbbc
 鄰邦	lbbh
 狼狽不堪	lbbk
@@ -24880,7 +24880,7 @@ IP地址	ipdv
 臨盆	lbpf
 鱗片	lbpm
 了不起	lbq
-蘿卜青菜	lbqc
+蘿蔔青菜	lbqc
 了不起	lbqi
 臨去	lbqu
 鄰	lbr
@@ -24924,7 +24924,7 @@ IP地址	ipdv
 兩不誤	lbwu
 狼狽萬狀	lbwv
 老百姓	lbx
-兩不相幹	lbxg
+兩不相干	lbxg
 吝惜	lbxi
 臨行	lbxk
 禮不下庶人	lbxr
@@ -25270,8 +25270,8 @@ IP地址	ipdv
 輪番上陣	lfu
 老夫少妻	lfuq
 輪番上陣	lfuv
-兩分鍾	lfv
-兩分鍾	lfvs
+兩分鐘	lfv
+兩分鐘	lfvs
 羅敷有夫	lfyf
 冷	lg
 冷傲	lgao
@@ -25356,7 +25356,7 @@ IP地址	ipdv
 愣怔	lgvg
 冷戰	lgvj
 兩個鍾	lgvs
-兩個鍾頭	lgvt
+兩個鐘頭	lgvt
 樂觀主義	lgvy
 兩個問題	lgwt
 愣	lgx
@@ -25425,9 +25425,9 @@ IP地址	ipdv
 郎君	lhjy
 啷	lhk
 啷	lhke
-老黃歷	lhl
+老黃曆	lhl
 朗朗	lhlh
-老黃歷	lhli
+老黃曆	lhli
 落花流水	lhlu
 兩河流域	lhly
 榔	lhm
@@ -25847,7 +25847,7 @@ IP地址	ipdv
 靈機一動	ljyd
 讕	ljyj
 濫用	ljys
-了解一下	ljyx
+瞭解一下	ljyx
 籃子	ljz
 籃子	ljzi
 廉潔自律	ljzl
@@ -26108,7 +26108,7 @@ IP地址	ipdv
 啦啦啦	llla
 亮了	llle
 靚麗	llli
-理論聯系實際	lllj
+理論聯繫實際	lllj
 兩輛	llll
 聊來聊去	lllq
 囉裏囉嗦	llls
@@ -26938,7 +26938,7 @@ IP地址	ipdv
 亂寫	lrxp
 亂序	lrxu
 令人心折	lrxv
-了然於胸	lry
+瞭然於胸	lry
 令人遺憾	lryh
 亂用	lrys
 淚如雨下	lryx
@@ -26946,7 +26946,7 @@ IP地址	ipdv
 卵子	lrz
 卵子	lrzi
 令人作嘔	lrzo
-令人贊嘆	lrzt
+令人讚歎	lrzt
 龍	ls
 窿	lsb
 盧森堡	lsbc
@@ -27504,7 +27504,7 @@ IP地址	ipdv
 來無影，去無蹤	lwyz
 聯繫	lx
 離鄉背井	lxbj
-聯系電話	lxdh
+聯繫電話	lxdh
 量小非君子	lxfz
 例行公事	lxg
 狼心狗肺	lxgf
@@ -28158,7 +28158,7 @@ IP地址	ipdv
 賣掉	mddn
 買斷	mddr
 脈動	mdds
-沒多大關系	mddx
+沒多大關係	mddx
 酩酊大醉	mddz
 麥	mdf
 買房	mdfh
@@ -28995,7 +28995,7 @@ IP地址	ipdv
 毛利率	mll
 模棱兩可	mllk
 毛利率	mllv
-馬裏蘭大學	mllx
+馬里蘭大學	mllx
 摸了摸	mlm
 美輪美奐	mlmh
 摸了摸	mlmo
@@ -29025,9 +29025,9 @@ IP地址	ipdv
 馬列主義	mlvy
 馬拉維	mlw
 馬拉維	mlww
-沒聯系	mlx
+沒聯繫	mlx
 目露兇光	mlxg
-沒聯系	mlxi
+沒聯繫	mlxi
 馬來西亞	mlxy
 沒理由	mly
 馬來亞	mlya
@@ -29508,7 +29508,7 @@ IP地址	ipdv
 妙趣橫生	mqhu
 沒錢了	mql
 沒錢了	mqle
-密切聯系	mqlx
+密切聯繫	mqlx
 謬論	mqly
 眉清目秀	mqmx
 美其名曰	mqmy
@@ -29516,7 +29516,7 @@ IP地址	ipdv
 繆	mqs
 謀取私利	mqsl
 繆	mqsp
-麻雀雖小，五髒俱全	mqsq
+麻雀雖小，五臟俱全	mqsq
 麻雀雖小	mqsx
 謬誤	mqw
 謬誤	mqwu
@@ -29819,7 +29819,7 @@ IP地址	ipdv
 民主制	mvvi
 明智之舉	mvvj
 沒指望	mvw
-墨汁未幹	mvwg
+墨汁未乾	mvwg
 沒指望	mvwh
 目中無人	mvwr
 沒注意	mvy
@@ -31768,7 +31768,7 @@ IP地址	ipdv
 弄一下	nyx
 腦溢血	nyxt
 難以想象	nyxx
-難以下咽	nyxy
+難以下嚥	nyxy
 暖洋洋	nyy
 農業銀行	nyyh
 難以言選	nyyx
@@ -33658,7 +33658,7 @@ IP地址	ipdv
 齊步走	qbzz
 其次	qc
 強詞奪理	qcdl
-青菜蘿卜各有所愛	qcla
+青菜蘿蔔各有所愛	qcla
 羣策羣力	qcq
 去粗取精	qcqj
 羣策羣力	qcql
@@ -35916,9 +35916,9 @@ QQ拼音	qqpy
 認不出	rbi
 認不出	rbiu
 弱不禁風	rbjf
-人不可貌相，海水不可鬥量	rbk
+人不可貌相，海水不可斗量	rbk
 銳不可當	rbkd
-人不可貌相，海水不可鬥量	rbkl
+人不可貌相，海水不可斗量	rbkl
 人不可貌相	rbkx
 饒不了	rbl
 日不落帝國	rblg
@@ -36485,7 +36485,7 @@ QQ拼音	qqpy
 如夢方醒	rmfx
 人命關天	rmg
 人命關天	rmgt
-人脈關系	rmgx
+人脈關係	rmgx
 人模狗樣	rmgy
 如沐春風	rmi
 如沐春風	rmif
@@ -37202,7 +37202,7 @@ QQ拼音	qqpy
 斯巴達	sbda
 三班倒	sbdc
 斯巴達克	sbdk
-隨波蕩漾	sbdy
+隨波盪漾	sbdy
 三把火	sbh
 死不悔改	sbhg
 三把火	sbho
@@ -37462,7 +37462,7 @@ QQ拼音	qqpy
 三國志	sgvi
 賽過諸葛亮	sgvl
 僧衆	sgvs
-三個鍾頭	sgvt
+三個鐘頭	sgvt
 送給我	sgw
 三綱五常	sgwi
 送給我	sgwo
@@ -38430,7 +38430,7 @@ QQ拼音	qqpy
 旞	svfz
 髓	svg
 隨感	svgj
-絲竹管弦	svgx
+絲竹管絃	svgx
 髓	svgz
 穗	svh
 繐	svh
@@ -39152,7 +39152,7 @@ QQ拼音	qqpy
 頭髮	tf
 通風報信	tfbx
 天翻地覆	tfdf
-頭發長見識短	tfid
+頭髮長見識短	tfid
 太費勁	tfj
 太費勁	tfjb
 挑肥揀瘦	tfju
@@ -39203,7 +39203,7 @@ QQ拼音	qqpy
 提高了	tgl
 提供了	tgle
 談古論今	tglj
-天剛蒙蒙亮	tgml
+天剛矇矇亮	tgml
 騰挪	tgn
 騰挪	tgno
 吐故納新	tgnx
@@ -40010,7 +40010,7 @@ QQ拼音	qqpy
 甜蜜	tmmi
 填滿	tmmj
 天明	tmmk
-天蒙蒙亮	tmml
+天矇矇亮	tmml
 天幕	tmmu
 甜美	tmmw
 天年	tmn
@@ -40892,7 +40892,7 @@ QQ拼音	qqpy
 徒孫	tus
 唐詩宋詞	tusc
 塗色	tuse
-臺上三分鍾，臺下十年功	tusg
+臺上三分鐘，臺下十年功	tusg
 徒孫	tusy
 堍	tut
 堍	tutd
@@ -41316,7 +41316,7 @@ QQ拼音	qqpy
 頭號	tzhc
 投河	tzhe
 投行	tzhh
-投資匯報率	tzhl
+投資彙報率	tzhl
 偷歡	tzhr
 頭昏	tzhy
 透徹	tzi
@@ -41517,7 +41517,7 @@ QQ拼音	qqpy
 捨不得	ubde
 說不定	ubdk
 山崩地裂	ubdl
-舍不得孩子套不住狼	ubdl
+捨不得孩子套不住狼	ubdl
 鼠標墊	ubdm
 生不帶來，死不帶去	ubdq
 少部分	ubf
@@ -41568,7 +41568,7 @@ QQ拼音	qqpy
 說不清	ubq
 說不清楚	ubqi
 說不清	ubqk
-舍本求末	ubqm
+捨本求末	ubqm
 上不去	ubqu
 深表歉意	ubqy
 生不如死	ubrs
@@ -42857,7 +42857,7 @@ QQ拼音	qqpy
 時尚	uiuh
 實施	uiui
 飾	uiuj
-山重水復疑無路	uiul
+山重水複疑無路	uiul
 屎	uium
 鳲	uiun
 實說	uiuo
@@ -43236,7 +43236,7 @@ QQ拼音	qqpy
 生老病死	ulbs
 雙倍	ulbw
 上樑不正下樑歪	ulbw
-十裏八鄉	ulbx
+十里八鄉	ulbx
 雙層	ulc
 雙層	ulcg
 爽脆	ulcv
@@ -43616,9 +43616,9 @@ QQ拼音	qqpy
 受人之託	urvt
 拴住	urvu
 視若無睹	urwd
-深入細致	urx
+深入細緻	urx
 殺人兇手	urxu
-深入細致	urxv
+深入細緻	urxv
 授人以漁	ury
 授人以柄	uryb
 殺人越貨	uryh
@@ -44158,12 +44158,12 @@ QQ拼音	qqpy
 睡姿	uvzi
 水族	uvzu
 誰	uw
-十萬八千裏	uwbl
+十萬八千里	uwbl
 商務艙	uwc
 商務艙	uwch
 手無寸鐵	uwct
 傷亡慘重	uwcv
-身無彩鳳雙飛翼	uwcy
+身無綵鳳雙飛翼	uwcy
 尚無定論	uwd
 尚無定論	uwdl
 聲威大震	uwdv
@@ -44181,7 +44181,7 @@ QQ拼音	qqpy
 稅務局	uwj
 誰將	uwjl
 稅務局	uwju
-事無巨細	uwjx
+事無鉅細	uwjx
 說文解字	uwjz
 誰肯	uwkf
 耍無賴	uwl
@@ -44802,7 +44802,7 @@ QQ拼音	qqpy
 中飽私囊	vbsn
 追本溯源	vbsy
 這不是	vbu
-針砭時弊	vbub
+鍼砭時弊	vbub
 這不是	vbui
 丈八蛇矛	vbum
 這不是明擺着	vbuv
@@ -44877,7 +44877,7 @@ QQ拼音	qqpy
 照看	vckj
 啁	vckk
 嘲	vcko
-注冊會計師	vcku
+註冊會計師	vcku
 照例	vcl
 找來	vcld
 找了	vcle
@@ -44887,7 +44887,7 @@ QQ拼音	qqpy
 照亮	vcll
 照料	vcln
 棹	vcm
-注冊碼	vcma
+註冊碼	vcma
 着迷	vcmi
 照明	vcmk
 照面	vcmm
@@ -44954,9 +44954,9 @@ QQ拼音	qqpy
 照應	vcyk
 着	vcyo
 沼澤	vcz
-注冊資本	vczb
+註冊資本	vczb
 沼澤	vcze
-注冊資金	vczj
+註冊資金	vczj
 照做	vczo
 招租	vczu
 知道	vd
@@ -46231,7 +46231,7 @@ QQ拼音	qqpy
 戰友	vjyz
 站在	vjz
 站在	vjzd
-捉奸在牀	vjzi
+捉姦在牀	vjzi
 拽	vk
 中看不中用	vkby
 拽	vkf
@@ -46369,7 +46369,7 @@ QQ拼音	qqpy
 皺了皺眉	vlvm
 轉來轉去	vlvq
 直來直去	vlvq
-周六周日	vlvr
+週六週日	vlvr
 莊重	vlvs
 皺了皺眉頭	vlvt
 莊主	vlvu
@@ -47404,7 +47404,7 @@ QQ拼音	qqpy
 追星	vvxk
 政治協商	vvxu
 追尋	vvxy
-睜只眼閉只眼	vvy
+睜隻眼閉隻眼	vvy
 振振有詞	vvyc
 政治運動	vvyd
 睜着眼睛說瞎話	vvyh
@@ -47757,7 +47757,7 @@ QQ拼音	qqpy
 周圍	vzw
 皺紋	vzwf
 紂王	vzwh
-只字未提	vzwt
+隻字未提	vzwt
 週五	vzwu
 周圍	vzww
 㥮	vzx
@@ -47888,7 +47888,7 @@ QQ拼音	qqpy
 五彩斑斕	wcbl
 無從談起	wctq
 穩操勝券	wcu
-唯才是舉	wcuj
+唯纔是舉	wcuj
 穩操勝券	wcuq
 無從選擇	wcx
 無從下手	wcxu
@@ -47960,7 +47960,7 @@ QQ拼音	qqpy
 外賣	wdmd
 危地馬拉	wdml
 外面	wdmm
-五鬥米折腰	wdmy
+五斗米折腰	wdmy
 舞刀弄槍	wdnq
 歪	wdp
 外派	wdpd
@@ -48424,7 +48424,7 @@ QQ拼音	qqpy
 爲虎作倀	whzi
 往左	whzo
 完成	wi
-齷齪醃臢	wiaz
+齷齪腌臢	wiaz
 無處不在	wib
 未嘗不可	wibk
 臥牀不起	wibq
@@ -48688,7 +48688,7 @@ QQ拼音	qqpy
 烏拉圭	wlgv
 網絡化	wlh
 五雷轟頂	wlhd
-無力回天	wlht
+無力迴天	wlht
 網絡化	wlhx
 烏龍茶	wli
 烏龍茶	wlia
@@ -48711,7 +48711,7 @@ QQ拼音	qqpy
 五六歲	wlsv
 無厘頭	wlt
 無聊透頂	wltd
-萬裏挑一	wlty
+萬里挑一	wlty
 無厘頭	wltz
 無論是	wlu
 五六十	wlui
@@ -49300,7 +49300,7 @@ QQ拼音	qqpy
 完整性	wvx
 完整性	wvxk
 無助於	wvy
-惡之欲其死	wvys
+惡之慾其死	wvys
 穩中有升	wvyu
 爲之一振	wvyv
 萬衆一心	wvyx
@@ -50326,7 +50326,7 @@ QQ拼音	qqpy
 系列	xilp
 溪流	xilq
 西路	xilu
-鹹吃蘿卜淡操心	xilx
+鹹吃蘿蔔淡操心	xilx
 襲	xily
 析	xim
 皙	ximb
@@ -50501,12 +50501,12 @@ QQ拼音	qqpy
 消極怠工	xjdg
 現階段	xjdr
 心驚膽戰	xjdv
-席卷而去	xjeq
+席捲而去	xjeq
 戲劇化	xjh
 薪盡火傳	xjhi
 相煎何急	xjhj
 心急火燎	xjhl
-小家夥	xjho
+小傢伙	xjho
 相見恨晚	xjhw
 戲劇化	xjhx
 小轎車	xji
@@ -50523,7 +50523,7 @@ QQ拼音	qqpy
 下結論	xjl
 下腳料	xjln
 喜結良緣	xjly
-細嚼慢咽	xjmy
+細嚼慢嚥	xjmy
 新加坡	xjp
 喜劇片	xjpm
 新加坡	xjpo
@@ -52373,8 +52373,8 @@ QQ拼音	qqpy
 學着點	xvd
 心知肚明	xvdm
 行政單位	xvdw
-下周二	xve
-下周二	xver
+下週二	xve
+下週二	xver
 縣政府	xvf
 鄉政府	xvfu
 西裝革履	xvgl
@@ -52387,35 +52387,35 @@ QQ拼音	qqpy
 行政機關	xvjg
 新專輯	xvji
 心直口快	xvkk
-下周六	xvl
+下週六	xvl
 血債累累	xvll
-下周六	xvlq
+下週六	xvlq
 閒着沒事	xvm
 細枝末節	xvmj
 閒着沒事	xvmu
 行政區	xvq
 行政區劃	xvqh
 險中求勝	xvqu
-下周日	xvr
-下周日	xvri
+下週日	xvr
+下週日	xvri
 細緻入微	xvrw
-下周三	xvs
-下周四	xvsi
+下週三	xvs
+下週四	xvsi
 雪中送炭	xvst
 瞎折騰	xvt
 顯著提高	xvtg
 虛張聲勢	xvuu
 尋章摘句	xvvj
-下周五	xvw
+下週五	xvw
 項莊舞劍	xvwj
 削職爲民	xvwm
-下周五	xvwu
+下週五	xvwu
 象徵性	xvx
 血債血還	xvxh
 先知先覺	xvxj
 象徵性	xvxk
-下周一	xvy
-下周一	xvyi
+下週一	xvy
+下週一	xvyi
 笑逐顏開	xvyk
 曉之以理	xvyl
 行之有年	xvyn
@@ -52790,7 +52790,7 @@ QQ拼音	qqpy
 馴	xym
 迅猛	xymg
 尋覓	xymi
-硝煙彌漫	xymm
+硝煙瀰漫	xymm
 栒	xymo
 殉難	xyn
 殉難	xynj
@@ -53240,7 +53240,7 @@ QQ拼音	qqpy
 要不然	ybr
 義不容辭	ybrc
 隱忍	ybrf
-與別人不相幹	ybrg
+與別人不相干	ybrg
 印染	ybrj
 原班人馬	ybrm
 引入	ybru
@@ -53574,7 +53574,7 @@ QQ拼音	qqpy
 一點點	ydd
 以點帶面	yddm
 一大堆	yddv
-有多大關系	yddx
+有多大關係	yddx
 一點兒	yde
 易地而處	ydei
 遠道而來	ydel
@@ -53645,7 +53645,7 @@ QQ拼音	qqpy
 一定條件下	ydtx
 冤大頭	ydtz
 有點事	ydu
-有點舍不得	ydud
+有點捨不得	ydud
 有點事	ydui
 一段時間	yduj
 應當說	yduo
@@ -53862,7 +53862,7 @@ QQ拼音	qqpy
 要風得風，要雨得雨	yfdy
 一帆風順	yffu
 一分耕耘	yfg
-一分耕耘，一分收獲	yfgh
+一分耕耘，一分收穫	yfgh
 一分耕耘	yfgy
 一番話	yfh
 一分貨	yfho
@@ -53978,7 +53978,7 @@ QQ拼音	qqpy
 一個來回	yglh
 陰溝裏翻船	ygli
 英格蘭	yglj
-一個蘿卜一個坑	yglk
+一個蘿蔔一個坑	yglk
 眼觀六路	ygll
 雁過留聲	yglu
 一國兩制	yglv
@@ -54014,23 +54014,23 @@ QQ拼音	qqpy
 應該說是	yguu
 一個手指	yguv
 一個上午	yguw
-一個鍾	ygv
-一個中國	ygvg
+一個鐘	ygv
+一箇中國	ygvg
 有功之臣	ygvi
 有過之而無不及	ygvj
-一個鍾	ygvs
-一個鍾頭	ygvt
+一個鐘	ygvs
+一個鐘頭	ygvt
 倚官仗勢	ygvu
 言歸正傳	ygvv
-一個中心	ygvx
+一箇中心	ygvx
 應該這樣	ygvy
 一鍋粥	ygvz
 以攻爲守	ygw
 一個問題	ygwt
 一個晚上	ygwu
-有關系	ygx
+有關係	ygx
 一個想法	ygxf
-有關系	ygxi
+有關係	ygxi
 一個星期	ygxq
 一個小時	ygxu
 一個下午	ygxw
@@ -55099,7 +55099,7 @@ QQ拼音	qqpy
 營長	ykvh
 英制	ykvi
 迎戰	ykvj
-一刻鍾	ykvs
+一刻鐘	ykvs
 贏	ykw
 英文	ykwf
 欲哭無淚	ykwl
@@ -55265,7 +55265,7 @@ QQ拼音	qqpy
 陰謀詭計	ymgj
 一碼歸一碼	ymgm
 玉門關	ymgr
-也沒關系	ymgx
+也沒關係	ymgx
 一抹黑	ymh
 魚目混珠	ymhv
 一抹黑	ymhw
@@ -55724,7 +55724,7 @@ QQ拼音	qqpy
 要死不活	ysbh
 用兵	ysbk
 永別	ysbp
-腰酸背痛	ysbt
+腰痠背痛	ysbt
 永不	ysbu
 癰	ysby
 用餐	ysc
@@ -56433,13 +56433,13 @@ QQ拼音	qqpy
 硬着頭皮	yvtp
 硬着頭皮上	yvtu
 一致同意	yvty
-一只手	yvu
+一隻手	yvu
 一轉身	yvuf
 願者上鉤	yvug
 也正是	yvui
 刖趾適屨	yvuj
 以正視聽	yvut
-一只手	yvuz
+一隻手	yvuz
 眼睜睜	yvv
 一陣陣	yvvf
 眼睜睜	yvvg
@@ -56780,7 +56780,7 @@ QQ拼音	qqpy
 韻律	yylv
 遙遙領先	yylx
 韻母	yym
-陰雲密布	yymb
+陰雲密佈	yymb
 殞命	yymk
 韻母	yymu
 遠遠沒有	yymy
