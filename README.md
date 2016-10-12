@@ -41,8 +41,6 @@ Rime 小鹤双拼音形输入方案
 
 `xhup-dict.txt`：小鹤双拼官方码表，取自小鹤双拼官方搜狗拼音导入码表
 
-`xhup-dict-t.txt`：从 `xhup-dict.txt` 生成的繁体及异体字形码表
-
 `gen-dict.py`：用于生成码表的 Python 3 脚本
 
 ## `gen-dict.py` 使用方法
