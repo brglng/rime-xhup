@@ -46,5 +46,5 @@ Rime 小鹤双拼音形输入方案
 ## `gen-dict.py` 使用方法
 
 ```shell
-gen-dict.py xhup-dict.txt /path/to/OpenCC/repo/data > xhup-dict-t.txt
+gen-dict.py xhup-dict.txt /path/to/OpenCC/repo/data > xhup.dict.yaml
 ```
