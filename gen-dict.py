@@ -138,21 +138,21 @@ if __name__ == '__main__':
             #  jp_variants_dict[tchar] = variants
             #  line = f.readline().rstrip('\n')
 
-    variant_dict = dict()
-    with open(variant_file) as f:
-        line = f.readline().rstrip('\n')
-        while line:
-            (tchar, variants) = line.split('\t')
-            variants = variants.split(' ')
-            variant_dict[tchar] = variants
-            line = f.readline().rstrip('\n')
+    #  variant_dict = dict()
+    #  with open(variant_file) as f:
+        #  line = f.readline().rstrip('\n')
+        #  while line:
+            #  (tchar, variants) = line.split('\t')
+            #  variants = variants.split(' ')
+            #  variant_dict[tchar] = variants
+            #  line = f.readline().rstrip('\n')
 
-    for (s, t_list) in st_dict.items():
-        for t in t_list.copy():
-            if t in variant_dict:
-                for v in variant_dict[t]:
-                    if v not in t_list:
-                        t_list.append(v)
+    #  for (s, t_list) in st_dict.items():
+        #  for t in t_list.copy():
+            #  if t in variant_dict:
+                #  for v in variant_dict[t]:
+                    #  if v not in t_list:
+                        #  t_list.append(v)
 
             #  if t in hk_variants_dict:
                 #  for v in hk_variants_dict[t]:
