@@ -200,6 +200,8 @@ if __name__ == '__main__':
 
             line = f.readline().rstrip('\n')
 
+    print(DICT_HEADER)
+
     new_lines = set()
     with open(orig_dict_file) as f:
         line = f.readline().rstrip('\n')
