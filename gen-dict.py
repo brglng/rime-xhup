@@ -47,42 +47,45 @@ if __name__ == '__main__':
     subprocess.check_call(['opencc', '-i', orig_dict_file,
                            '-o', orig_dict_t_file,
                            '-c', 's2t.json'])
-    orig_dict_hk_file = 'xhup-dict-hk.txt'
-    subprocess.check_call(['opencc', '-i', orig_dict_file,
-                           '-o', orig_dict_hk_file,
-                           '-c', 's2hk.json'])
-    orig_dict_tw_file = 'xhup-dict-tw.txt'
-    subprocess.check_call(['opencc', '-i', orig_dict_file,
-                           '-o', orig_dict_tw_file,
-                           '-c', 's2tw.json'])
+    #  orig_dict_hk_file = 'xhup-dict-hk.txt'
+    #  subprocess.check_call(['opencc', '-i', orig_dict_file,
+                           #  '-o', orig_dict_hk_file,
+                           #  '-c', 's2hk.json'])
+    #  orig_dict_tw_file = 'xhup-dict-tw.txt'
+    #  subprocess.check_call(['opencc', '-i', orig_dict_file,
+                           #  '-o', orig_dict_tw_file,
+                           #  '-c', 's2tw.json'])
 
-    with open(orig_dict_file) as sf, open(orig_dict_t_file) as tf, \
-         open(orig_dict_hk_file) as hkf, open(orig_dict_tw_file) as twf:
+    with open(orig_dict_file) as sf, open(orig_dict_t_file) as tf:
+    #  with open(orig_dict_file) as sf, open(orig_dict_t_file) as tf, \
+         #  open(orig_dict_hk_file) as hkf, open(orig_dict_tw_file) as twf:
 
         sline = sf.readline().rstrip('\n')
         tline = tf.readline().rstrip('\n')
-        hkline = hkf.readline().rstrip('\n')
-        twline = twf.readline().rstrip('\n')
-        while sline and tline and hkline and twline:
+        #  hkline = hkf.readline().rstrip('\n')
+        #  twline = twf.readline().rstrip('\n')
+        #  while sline and tline and hkline and twline:
+        while sline and tline:
             (s, code) = sline.split('\t')
             (t, code) = tline.split('\t')
-            (hk, code) = hkline.split('\t')
-            (tw, code) = twline.split('\t')
+            #  (hk, code) = hkline.split('\t')
+            #  (tw, code) = twline.split('\t')
 
             if s not in st_dict:
-                st_dict[s] = [t, hk, tw]
+                #  st_dict[s] = [t, hk, tw]
+                st_dict[s] = [t]
             else:
                 if t not in st_dict[s]:
                     st_dict[s].append(t)
-                if hk not in st_dict[s]:
-                    st_dict[s].append(hk)
-                if tw not in st_dict[s]:
-                    st_dict[s].append(tw)
+                #  if hk not in st_dict[s]:
+                    #  st_dict[s].append(hk)
+                #  if tw not in st_dict[s]:
+                    #  st_dict[s].append(tw)
 
             sline = sf.readline().rstrip('\n')
             tline = tf.readline().rstrip('\n')
-            hkline = hkf.readline().rstrip('\n')
-            twline = twf.readline().rstrip('\n')
+            #  hkline = hkf.readline().rstrip('\n')
+            #  twline = twf.readline().rstrip('\n')
 
     with open(st_multi_file) as f:
         line = f.readline().rstrip('\n')
@@ -99,41 +102,41 @@ if __name__ == '__main__':
 
             line = f.readline().rstrip('\n')
 
-    hk_variants_dict = dict()
-    with open(hk_variants_file) as f:
-        line = f.readline().rstrip('\n')
-        while line:
-            (tchar, variants) = line.split('\t')
-            variants = variants.split(' ')
-            hk_variants_dict[tchar] = variants
-            line = f.readline().rstrip('\n')
+    #  hk_variants_dict = dict()
+    #  with open(hk_variants_file) as f:
+        #  line = f.readline().rstrip('\n')
+        #  while line:
+            #  (tchar, variants) = line.split('\t')
+            #  variants = variants.split(' ')
+            #  hk_variants_dict[tchar] = variants
+            #  line = f.readline().rstrip('\n')
 
-    hk_variants_phrases_dict = dict()
-    with open(hk_variants_phrases_file) as f:
-        line = f.readline().rstrip('\n')
-        while line:
-            (tphrase, variants) = line.split('\t')
-            variants = variants.split(' ')
-            hk_variants_phrases_dict[tphrase] = variants
-            line = f.readline().rstrip('\n')
+    #  hk_variants_phrases_dict = dict()
+    #  with open(hk_variants_phrases_file) as f:
+        #  line = f.readline().rstrip('\n')
+        #  while line:
+            #  (tphrase, variants) = line.split('\t')
+            #  variants = variants.split(' ')
+            #  hk_variants_phrases_dict[tphrase] = variants
+            #  line = f.readline().rstrip('\n')
 
-    tw_variants_dict = dict()
-    with open(tw_variants_file) as f:
-        line = f.readline().rstrip('\n')
-        while line:
-            (tchar, variants) = line.split('\t')
-            variants = variants.split(' ')
-            tw_variants_dict[tchar] = variants
-            line = f.readline().rstrip('\n')
+    #  tw_variants_dict = dict()
+    #  with open(tw_variants_file) as f:
+        #  line = f.readline().rstrip('\n')
+        #  while line:
+            #  (tchar, variants) = line.split('\t')
+            #  variants = variants.split(' ')
+            #  tw_variants_dict[tchar] = variants
+            #  line = f.readline().rstrip('\n')
 
-    jp_variants_dict = dict()
-    with open(jp_variants_file) as f:
-        line = f.readline().rstrip('\n')
-        while line:
-            (tchar, variants) = line.split('\t')
-            variants = variants.split(' ')
-            jp_variants_dict[tchar] = variants
-            line = f.readline().rstrip('\n')
+    #  jp_variants_dict = dict()
+    #  with open(jp_variants_file) as f:
+        #  line = f.readline().rstrip('\n')
+        #  while line:
+            #  (tchar, variants) = line.split('\t')
+            #  variants = variants.split(' ')
+            #  jp_variants_dict[tchar] = variants
+            #  line = f.readline().rstrip('\n')
 
     variant_dict = dict()
     with open(variant_file) as f:
@@ -151,25 +154,25 @@ if __name__ == '__main__':
                     if v not in t_list:
                         t_list.append(v)
 
-            if t in hk_variants_dict:
-                for v in hk_variants_dict[t]:
-                    if v not in t_list:
-                        t_list.append(v)
+            #  if t in hk_variants_dict:
+                #  for v in hk_variants_dict[t]:
+                    #  if v not in t_list:
+                        #  t_list.append(v)
 
-            if t in hk_variants_phrases_dict:
-                for v in hk_variants_phrases_dict[t]:
-                    if v not in t_list:
-                        t_list.append(v)
+            #  if t in hk_variants_phrases_dict:
+                #  for v in hk_variants_phrases_dict[t]:
+                    #  if v not in t_list:
+                        #  t_list.append(v)
 
-            if t in tw_variants_dict:
-                for v in tw_variants_dict[t]:
-                    if v not in t_list:
-                        t_list.append(v)
+            #  if t in tw_variants_dict:
+                #  for v in tw_variants_dict[t]:
+                    #  if v not in t_list:
+                        #  t_list.append(v)
 
-            if t in jp_variants_dict:
-                for v in jp_variants_dict[t]:
-                    if v not in t_list:
-                        t_list.append(v)
+            #  if t in jp_variants_dict:
+                #  for v in jp_variants_dict[t]:
+                    #  if v not in t_list:
+                        #  t_list.append(v)
 
     with open(st_characters_file) as f:
         line = f.readline().rstrip('\n')
