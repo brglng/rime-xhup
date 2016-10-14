@@ -1,6 +1,8 @@
 # rime-xhup
 Rime 小鹤双拼音形输入方案
 
+需要使用最新版的 librime（1.2.9），因此不支持官网版小狼豪和鼠须管。Windows 平台推荐 [PRIME](https://github.com/osfans/PIME/releases/)，Linux 平台可以自行编译安装 ibus-rime。
+
 ## 特性
 
 - 三种输入方式：
