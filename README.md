@@ -38,13 +38,3 @@ Rime 小鹤双拼音形输入方案
 `xhup_express.schema.yaml`：「小鹤音形·连打」输入方案，依赖 `xhup_luna.dict.yaml`
 
 `xhup_fluency.schema.yaml`：「小鹤音形·语句流」输入方案，依赖 `xhup_luna.dict.yaml`
-
-`xhup-dict.txt`：小鹤双拼官方码表，取自小鹤双拼官方搜狗拼音导入码表
-
-`gen-dict.py`：用于生成码表的 Python 3 脚本
-
-## `gen-dict.py` 使用方法
-
-```shell
-gen-dict.py xhup-dict.txt /path/to/OpenCC/repo/data > xhup.dict.yaml
-```
