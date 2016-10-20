@@ -65,7 +65,7 @@ translator:
   enable_sentence: false
   encode_commit_history: false
   enable_completion: false
-  enable_user_dict: true
+  enable_user_dict: false
   max_phrase_length: 14
   disable_user_dict_for_patterns:
     - "^o.*$"
