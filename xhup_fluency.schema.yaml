@@ -4,7 +4,7 @@
 schema:
   schema_id: xhup_fluency
   name: 小鶴音形·語句流
-  version: "2016.11.15.0"
+  version: "2018.9.18.0"
   author:
     - xhup by 鶴
     - Rime schema by Zhaosheng Pan <brglng@gmail.com>
@@ -12,8 +12,10 @@ schema:
     小鶴雙拼音形方案·語句流錄入！
     以空格分詞、標點或回車上屏。
   dependencies:
-    - luna_pinyin
-    - double_pinyin_flypy
+    - pinyin_simp
+
+punctuator:
+  import_preset: default
 
 switches:
   - name: ascii_mode
@@ -56,7 +58,7 @@ speller:
   delimiter: " ;'"
 
 translator:
-  dictionary: xhup_luna
+  dictionary: xhup
   enable_charset_filter: true
   enable_encoder: true
   enable_sentence: true
@@ -65,13 +67,13 @@ translator:
   enable_user_dict: true
   max_phrase_length: 14
   disable_user_dict_for_patterns:
-    - "^o.*$"
-    - "^`.*$"
+    - "^z.*$"
+    - "^oi.*$"
 
 reverse_lookup:
   dictionary: pinyin_simp
   # prism: double_pinyin_flypy
-  prefix: "`"
+  prefix: "oi"
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
@@ -93,4 +95,4 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
-    reverse_lookup: "`[a-z]*'?$"
+    reverse_lookup: "oi[a-z]*'?$"

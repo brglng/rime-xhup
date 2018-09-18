@@ -4,16 +4,18 @@
 schema:
   schema_id: xhup
   name: 小鶴音形
-  version: "2016.11.15.0"
+  version: "2018.9.18.0"
   author:
     - xhup by 鶴
-    - Rime schema by Zhaosheng Pan <brglng@gmail.com>
+    - Rime schema by Zhaosheng Pan <zhaosheng.pan@sololand.moe>
   description: |
     小鶴雙拼音形方案
     四键自动上屏
   dependencies:
-    - luna_pinyin
-    - double_pinyin_flypy
+    - pinyin_simp
+
+punctuator:
+  import_preset: default
 
 switches:
   - name: ascii_mode
@@ -52,15 +54,19 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  # delimiter: " ;'"
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba#'
+  #initials: ';'
+  finals: '#'
+  delimiter: " '"
   max_code_length: 4
   auto_select: true
+  auto_select_pattern: ^;.$|^\w{4}$
   auto_select_unique_candidate: true
+  auto_clear: max_length
 
 translator:
   dictionary: xhup
-  enable_charset_filter: true
+  enable_charset_filter: false
   enable_encoder: false
   enable_sentence: false
   encode_commit_history: false
@@ -68,14 +74,14 @@ translator:
   enable_user_dict: false
   max_phrase_length: 14
   disable_user_dict_for_patterns:
-    - "^o.*$"
-    - "^`.*$"
+    - "^z.*$"
+    - "^oi.*$"
 
 reverse_lookup:
   dictionary: pinyin_simp
   # prism: double_pinyin_flypy
-  prefix: "`"
-  # suffix: "'"
+  prefix: "oi"
+  suffix: "'"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nl])v/$1ü/
@@ -92,11 +98,16 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - {accept: semicolon, send: 2, when: has_menu}
-    - {accept: apostrophe, send: 3, when: has_menu} 
+    - {accept: bracketleft, send: Page_Up, when: has_menu} # [上翻页
+    - {accept: bracketright, send: Page_Down, when: has_menu} # ]下翻页
+    - {accept: ";", send: 2, when: composing}
+    - {accept: comma, send: 2, when: composing}
+    - {accept: "Tab", send: Escape, when: composing}
+    - {accept: Release+semicolon, send: semicolon, when: composing}
+    - {accept: Release+comma, send: comma, when: composing}
 
 recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
-    reverse_lookup: "`[a-z]*'?$"
+    reverse_lookup: "oi[a-z]*'?$"
