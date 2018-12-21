@@ -12,7 +12,7 @@ schema:
     小鶴雙拼音形方案·連打錄入！
     以分號或單引號分詞、標點或空格上屏。
   dependencies:
-    - pinyin_simp
+    - flypydz
 
 punctuator:
   import_preset: default
@@ -71,8 +71,7 @@ translator:
     - "^oi.*$"
 
 reverse_lookup:
-  dictionary: pinyin_simp
-  # prism: double_pinyin_flypy
+  dictionary: flypydz
   prefix: "oi"
   suffix: "'"
   tips: 〔拼音〕

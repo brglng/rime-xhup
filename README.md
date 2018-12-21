@@ -1,5 +1,5 @@
 # rime-xhup
-Rime 小鹤双拼音形输入方案，需要使用最新版的 librime（1.2.9+）。
+Rime 小鹤双拼音形输入方案，需要使用最新版的 librime（1.3.2+）。
 
 ## 特性
 
@@ -27,10 +27,24 @@ Rime 小鹤双拼音形输入方案，需要使用最新版的 librime（1.2.9+�
 
 ## 文件说明
 
-`xhup.dict.yaml`：字典文件，从小鹤双拼官方码表生成
+`xhup.schema.yaml`：「小鹤音形」输入方案
 
-`xhup.schema.yaml`：「小鹤音形」输入方案，依赖 `xhup.dict.yaml`
+`xhup_express.schema.yaml`：「小鹤音形·连打」输入方案
 
-`xhup_express.schema.yaml`：「小鹤音形·连打」输入方案，依赖 `xhup.dict.yaml`
+`xhup_fluency.schema.yaml`：「小鹤音形·语句流」输入方案
 
-`xhup_fluency.schema.yaml`：「小鹤音形·语句流」输入方案，依赖 `xhup.dict.yaml`
+`xhup.prism.bin`：「小鹤音形」Rime 棱镜（来源于小鹤双拼官方）
+
+`xhup.table.bin`：「小鹤音形」Rime 固态词典（来源于小鹤双拼官方）
+
+`xhup.reverse.bin`：「小鹤音形」Rime 反查词典（来源于小鹤双拼官方）
+
+`flypydz.prism.bin`：「flypydz」方案 Rime 棱镜（用于反查，来源于小鹤双拼官方）
+
+`flypydz.table.bin`：「flypydz」方案 Rime 固态词典（用于反查，来源于小鹤双拼官方）
+
+`flypydz.reverse.bin`：「flypydz」方案 Rime 反查词典（用于反查，来源于小鹤双拼官方）
+
+## 使用方法
+
+将 yaml 文件拷贝至 Rime 配置目录内，bin 文件拷贝至 Rime build 目录内。以 Linux 平台 ibus-rime 为例，Rime 配置目录为 `~/.config/ibus/rime`，Rime build 目录为 `~/.config/ibus/rime/build`。
