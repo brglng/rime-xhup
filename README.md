@@ -47,7 +47,7 @@ Rime 小鹤双拼音形输入方案，需要使用最新版的 librime（1.3.2+�
 
 ## 使用方法
 
-将 yaml 文件拷贝至 Rime 配置目录内，bin 文件拷贝至 Rime build 目录内。以 Linux 平台 ibus-rime 为例，Rime 配置目录为 `~/.config/ibus/rime`，Rime build 目录为 `~/.config/ibus/rime/build`。
+将 yaml 和 bin 文件拷贝至 Rime 配置目录内。
 
 ## 许可证
 
