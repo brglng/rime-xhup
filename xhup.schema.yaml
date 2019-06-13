@@ -14,9 +14,6 @@ schema:
   dependencies:
     - flypydz
 
-punctuator:
-  import_preset: default
-
 switches:
   - name: ascii_mode
     reset: 0
@@ -65,7 +62,7 @@ speller:
   auto_clear: max_length
 
 translator:
-  dictionary: xhup
+  dictionary: flypy
   enable_charset_filter: false
   enable_encoder: false
   enable_sentence: false

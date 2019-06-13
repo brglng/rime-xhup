@@ -14,9 +14,6 @@ schema:
   dependencies:
     - flypydz
 
-punctuator:
-  import_preset: default
-
 switches:
   - name: ascii_mode
     reset: 0
@@ -58,7 +55,7 @@ speller:
   delimiter: " ;'"
 
 translator:
-  dictionary: xhup
+  dictionary: flypy
   enable_charset_filter: true
   enable_encoder: true
   enable_sentence: true
